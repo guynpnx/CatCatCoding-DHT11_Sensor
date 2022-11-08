@@ -5,7 +5,7 @@
 
 ### Source Code
 #### Set Up
-      <p style="color:#C71585">#include</p> "DHT.h"
+      <span style="color:#C71585">#include</span> "DHT.h"
       #define DHTPIN 2
       #define DHTTYPE DHT11 // DHT 11
       // #define DHTTYPE DHT22 // DHT 22 (AM2302), AM2321
