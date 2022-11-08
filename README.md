@@ -4,7 +4,6 @@
 ![image](https://i.ibb.co/d7wGdnZ/free-Delivr-3.png)
 
 ### Source Code
-
 #### Set Up
    void setup()
    {
@@ -12,7 +11,7 @@
       Serial.println(F("DHTxx test!"));
       dht.begin();
     }
-   #### Loop
+#### Loop
    void loop()
    {
       delay(2000);
