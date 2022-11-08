@@ -5,7 +5,7 @@
 //#define DHTTYPE DHT21 // DHT 21 (AM2301)
 DHT dht(DHTPIN, DHTTYPE);
 void setup()
-{
+{ 
     Serial.begin(115200);
     Serial.println(F("DHTxx test!"));
     dht.begin();
