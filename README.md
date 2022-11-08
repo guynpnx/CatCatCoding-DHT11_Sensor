@@ -1,4 +1,4 @@
-﻿# Arduino-DHT11_Sensor
+﻿# ตรวจวัดอุณหภูมิและความชื้นด้วย sensor DHT11 ผ่าน Arduino
 
 ### ภาพปกตัวอย่าง
 ![image](https://i.ibb.co/d7wGdnZ/free-Delivr-3.png)
