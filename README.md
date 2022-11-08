@@ -5,7 +5,9 @@
 
 ### โค้ด
 
-#include "DHT.h"
+<html>
+      <body>
+          #include "DHT.h"
 #define DHTPIN 2
 #define DHTTYPE DHT11 // DHT 11
 // #define DHTTYPE DHT22 // DHT 22 (AM2302), AM2321
@@ -37,5 +39,7 @@ void loop()
     Serial.print(t);
     Serial.println(F(" C "));
 }
+      </body>
+</html>
 
 ### ลิ้งวีดีโอ https://www.youtube.com/watch?v=KQl_TQoP4Nk
