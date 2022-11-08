@@ -5,7 +5,8 @@
 
 ### Source Code
 #### Set Up
-      <span style="color:blue">some *This is Blue italic.* text</span>
+<p style="color:blue">Make this text blue.</p>
+
       <span style="color:red">#include</span> "DHT.h"
       #define DHTPIN 2
       #define DHTTYPE DHT11 // DHT 11
